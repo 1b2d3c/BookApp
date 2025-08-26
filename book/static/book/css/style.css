@@ -1,0 +1,32 @@
+nav {
+    background-image: url(../../image/logo.jpg);
+    background-size: 65px;
+    background-repeat: no-repeat;
+}
+nav div {
+    margin-left: 65px;
+}
+a {
+    text-decoration: none;
+    line-height: 2;
+}
+.book-t {
+    justify-content: center;
+    display: flex;
+}
+.book-top {
+    padding: 10px;
+    margin: 20px 1%;
+    text-align: center;
+    width: 30%;
+    border: 1px solid #198754;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+.text-success {
+    line-height: 2;
+}
+.img-thumbnail {
+    max-height: 300px;
+    object-fit: contain;
+}
